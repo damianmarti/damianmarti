@@ -1,4 +1,4 @@
-*Sofware engineer with heavy experience building high traffic Internet sites and working with multicultural and interdisciplinary teams, working with people around the world using online tools to get the work done.*
+*Sotfware engineer with heavy experience building high traffic Internet sites and working with multicultural and interdisciplinary teams, working with people around the world using online tools to get the work done.*
 
 I've been coding since 1990. I started with **Basic** on my PC AT 286 20MHZ, with 2MB RAM and 47MB HD. I made my first website in 1996, a riddle and puzzles website hosted on Geocities.
 
